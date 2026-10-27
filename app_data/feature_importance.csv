@@ -1,0 +1,16 @@
+feature,gain_share
+promo2_active,0.0005
+state_holiday,0.0007
+SchoolHoliday,0.002
+competition_open_months,0.0021
+assortment,0.0025
+month,0.0071
+year,0.0072
+store_type,0.0072
+competition_distance,0.0073
+week_of_year,0.0165
+day_of_year,0.026
+day,0.0308
+DayOfWeek,0.0528
+Promo,0.1551
+Store,0.6821
