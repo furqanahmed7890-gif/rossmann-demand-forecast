@@ -1,5 +1,7 @@
 # Rossmann: 6-Week Demand Forecast and Cost-Minimizing Staffing Plan
 
+**Live demo: [rossmann-demand-forecast-fa.streamlit.app](https://rossmann-demand-forecast-fa.streamlit.app/)**
+
 Forecasting plus optimization on real retail data: predict the next 6 weeks of daily sales and customer
 traffic for 1,115 Rossmann drugstores, then turn the forecast into the cheapest staffing plan that still
 covers every day, solved in Python **and in Excel Solver**.
